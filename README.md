@@ -3,7 +3,7 @@ Projeto simples utilizando componentes de clique de botões
 
 Pré-requisitos
 --------------
-- Android SDK 19 ou mais novo
+- Android SDK 15 ou mais novo
 - Build Tools version 23.0.2
 - Android Support AppCompat 23.4.0
 
